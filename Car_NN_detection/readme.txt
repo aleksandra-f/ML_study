@@ -7,3 +7,6 @@
 https://drive.google.com/file/d/17Rkz8VlyetNLAyD4x_M0TlQrt2-4quop/view?usp=sharing
 1.zip, 2.zip, 3.zip - данные для обучения нейросети разпознавать тип ТС
 5.mp4 - видео для тестирования пайплайна
+
+Ссылка на модели для пайплайна:
+https://drive.google.com/file/d/139zNYbrwl5Bd9_tkTIq1VpinL7P2X79e/view?usp=sharing
